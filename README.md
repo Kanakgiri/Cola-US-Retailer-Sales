@@ -1,6 +1,6 @@
 # Cola US Retailer Sales
 
-## Purposes Of The Project
+## Purpose Of The Project
 
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Cola Sales in US.
 
